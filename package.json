@@ -1,0 +1,16 @@
+{
+  "name": "trackit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.ts",
+  "type": "module",
+  "scripts": {
+    "start": "tsc --watch && node app/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.7.2"
+  }
+}
